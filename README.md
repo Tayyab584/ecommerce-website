@@ -39,18 +39,18 @@ To get started with this project, follow these steps:
     
     git clone https://github.com/yourusername/ecommerce-project.git
     cd ecommerce-project
-    ```
+    
 
 2. **Install dependencies:**
 
  
     npm install
-    ```
+    
 
 3. **Start the development server:**
 
     npm run dev
-    ```
+    
 
    Open http://localhost:5173 in your browser to see the application.
 
